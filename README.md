@@ -31,6 +31,12 @@ Command| Does...
 `/start`|To start the bot
 `/config`| To change the bot configuration
 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/chaerulchas/telegram-miner-client.svg)](https://starchart.cc/chaerulchas/telegram-miner-client)
+
+
 ## Credits
 - Created and Developed by <a href="https://github.com/chaerulchas">Chaerul Chas</a>
 
