@@ -3,11 +3,7 @@
 <br />
 [![Created By](https://svgshare.com/i/mKV.svg)](https://github.com/chaerulchas/telegram-miner-client)
 <br />
-<br />
 <h1>
-<p align="center">
-  <br>Telegram Miner
-  </p>
 </h1>
   <p align="center">
     Cryptocurrency mining with telegram, easy for mining cryptocurrency.
