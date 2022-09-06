@@ -6,6 +6,7 @@
 <h1>
 </h1>
   <p align="center">
+  The first in the world ...
     Cryptocurrency mining with telegram, easy for mining cryptocurrency.
     <br />
     </p>
